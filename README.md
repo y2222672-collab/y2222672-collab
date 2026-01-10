@@ -8,7 +8,7 @@ I have experience working in an **Agile/Scrum** environment, adhering to best pr
 
 🧰 Tech Stack  
 **Frontend:** JavaScript (ES6+) | TypeScript | React | Next.js | Redux | HTML5 & CSS3 (SASS/SCSS)  
-**Backend:** Node.js | Express | MongoDB | REST API  
+**Backend:** Node.js 
 **Tools:** Git | Webpack | Vite | Agile/Scrum
 
 💻 Featured Projects
